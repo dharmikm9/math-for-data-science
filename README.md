@@ -4,3 +4,5 @@
 ##### Mormal Distribution
 ##### Mean, Median, Mode
 ##### Cosine Similarity
+
+##### Updated by Dharmik Mehta
